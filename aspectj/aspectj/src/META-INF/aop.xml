@@ -1,8 +1,0 @@
-<aspectj>
-
-	<aspects>
-		<aspect name="br.com.caelum.fj91.aspect.LogAspect" />
-		<aspect name="br.com.caelum.fj91.aspect.ExceptionHandler" />
-	</aspects>
-
-</aspectj>
